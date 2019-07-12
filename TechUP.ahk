@@ -20,15 +20,15 @@
 ::ck(V@)::@苦力怕控
 ::tvs(V@)::@The_Void工作室
 ::gp(V@)::@瓜皮Tuza
-::shyj(V@)::@社会易姐QwQ ; maybe
-::avb(V@)::@avbest ; unk
+::shyj(V@)::@社会易姐QwQ
+::avb(V@)::@avbest
 ::gtx690(V@)::@GTX690战术核显卡导弹
 ::xuan(V@)::@Xuanxuan197068
 
 ; funny
 ::f360(V@)::@滑稽360
 ::fmemz(V@)::@滑稽MEMZ
-::dd946(@)::@当当946 ; i know should not put here
+::dd946(@)::@当当946
 
 ; mister
 ::mem(V@)::@内存君_
